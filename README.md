@@ -1,6 +1,6 @@
 # swag-for-dev
 
-As a developer, nothing piques my interest as much as developer swag! This is an attempt to list down the current swag opportunities for developers.
+As a developer, nothing pique my interest as much as developer swag! This is an attempt to list down the current swag opportunities for developers.
 
 Feel free to send a PR! :smile:
 
